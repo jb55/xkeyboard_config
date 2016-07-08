@@ -528,19 +528,19 @@ xkb_symbols "hex" {
     key <KPSU> { [ NoSymbol,  NoSymbol,  dollar     ] };
 
     // upper row
-    key <KP7>  { [ NoSymbol,  NoSymbol,  a          ] };
-    key <KP8>  { [ NoSymbol,  NoSymbol,  b          ] };
-    key <KP9>  { [ NoSymbol,  NoSymbol,  c          ] };
+    key <KP7>  { [ NoSymbol,  NoSymbol,  a, A          ] };
+    key <KP8>  { [ NoSymbol,  NoSymbol,  b, B          ] };
+    key <KP9>  { [ NoSymbol,  NoSymbol,  c, C          ] };
 
     // home row
-    key <KP4>  { [ NoSymbol,  NoSymbol,  d          ] };
-    key <KP5>  { [ NoSymbol,  NoSymbol,  e          ] };
-    key <KP6>  { [ NoSymbol,  NoSymbol,  f          ] };
+    key <KP4>  { [ NoSymbol,  NoSymbol,  d, D          ] };
+    key <KP5>  { [ NoSymbol,  NoSymbol,  e, E          ] };
+    key <KP6>  { [ NoSymbol,  NoSymbol,  f, F          ] };
     key <KPAD> { [ NoSymbol,  NoSymbol,  comma      ] };
 
     // lower row
     key <KP1>  { [ NoSymbol,  NoSymbol,  equal      ] };
-    key <KP2>  { [ NoSymbol,  NoSymbol,  x          ] };
+    key <KP2>  { [ NoSymbol,  NoSymbol,  x, X          ] };
     key <KP3>  { [ NoSymbol,  NoSymbol,  colon      ] };
 
     // decimal row
